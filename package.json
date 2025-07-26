@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "d3": "v3.5.17",
-    "jsdom": "9.4.1"
+    "jsdom": "16.6.0"
   },
   "devDependencies": {
     "d3-v4": "git://github.com/bradoyler/d3.git",
